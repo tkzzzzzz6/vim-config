@@ -1,6 +1,4 @@
-<!-- hello \
-i'm trying how to use vim  -->
-  syntax on 
+syntax on 
 set tabtop=3
 set shiftwidth=3
 set expandtab
@@ -29,4 +27,9 @@ set scrolloff=3
 set sidescrolloff=5
 set laststatus=2
 set showmatch
-set matchtime=2
+set matchtime=2 
+set listchars=tab:▸\ ,trail:·,extends:>,precedes:<,nbsp:+
+set list
+set showbreak=+++
+set breakindent
+@REM i add some vim config and delete some useless config and faulty config
