@@ -1,3 +1,4 @@
+@REM nice to meet you！！！
 syntax on 
 set tabtop=3
 set shiftwidth=3
